@@ -1,0 +1,8 @@
+C:\Users\БарашенковИТ\source\repos\Mobilki\Mobilki\bin\Debug\Mobilki.exe.config
+C:\Users\БарашенковИТ\source\repos\Mobilki\Mobilki\bin\Debug\Mobilki.exe
+C:\Users\БарашенковИТ\source\repos\Mobilki\Mobilki\bin\Debug\Mobilki.pdb
+C:\Users\БарашенковИТ\source\repos\Mobilki\Mobilki\obj\Debug\Mobilki.csproj.AssemblyReference.cache
+C:\Users\БарашенковИТ\source\repos\Mobilki\Mobilki\obj\Debug\Mobilki.csproj.SuggestedBindingRedirects.cache
+C:\Users\БарашенковИТ\source\repos\Mobilki\Mobilki\obj\Debug\Mobilki.csproj.CoreCompileInputs.cache
+C:\Users\БарашенковИТ\source\repos\Mobilki\Mobilki\obj\Debug\Mobilki.exe
+C:\Users\БарашенковИТ\source\repos\Mobilki\Mobilki\obj\Debug\Mobilki.pdb
